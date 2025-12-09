@@ -218,4 +218,3 @@ def analyze(payload: Input):
         "integrated_state":integrated_state,
         "rft_version":"1.0"
     }
-
